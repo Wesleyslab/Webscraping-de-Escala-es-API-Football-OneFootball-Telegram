@@ -3,6 +3,15 @@
 ## 🎯 Objetivo
 Automatizar a coleta de notícias sobre escalações de futebol, interpretar os textos utilizando IA e distribuir as informações em grupos de Telegram.
 
+## 🖼️ Exemplo de fluxo automatizado no n8n
+
+![Fluxo n8n](assets/print_n8n.png)
+
+## 🤖 Bot enviando escalação no Telegram
+
+![Bot no Telegram](assets/print_telegram.jpg)
+
+
 ## 🧰 Tecnologias utilizadas
 - Python
 - FastAPI
